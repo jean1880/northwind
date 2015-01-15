@@ -5,7 +5,7 @@ I have included a sample sails server, which interfaces with the northwind datab
 ```
 npm install -g sails
 ```
-Once installed you can restore the two sample databases i have generated, one with single document classical archetecture of mongodb, and one with restful, relational structure generated through sails. Assuming mongodb is installed on the system you can restore the two databases with:
+Once installed you can restore the two sample databases i have generated, one with single document classical archetecture of mongodb, and one with restful, relational structure generated through sails. Assuming mongodb is installed on the system and you have cd'd into the directory loaction, you can restore the two databases with:
 ```
 mongorestore dump/
 ```
