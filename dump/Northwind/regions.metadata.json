@@ -1,0 +1,1 @@
+{ "options" : { "create" : "regions" }, "indexes" : [ { "v" : 1, "key" : { "_id" : 1 }, "ns" : "Northwind.regions", "name" : "_id_" } ] }

@@ -1,0 +1,1 @@
+{ "options" : { "create" : "order_details" }, "indexes" : [ { "v" : 1, "key" : { "_id" : 1 }, "ns" : "Northwind.order_details", "name" : "_id_" } ] }

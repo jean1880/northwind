@@ -1,0 +1,1 @@
+{ "options" : { "create" : "territories" }, "indexes" : [ { "v" : 1, "key" : { "_id" : 1 }, "ns" : "Northwind.territories", "name" : "_id_" } ] }

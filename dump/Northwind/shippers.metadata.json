@@ -1,0 +1,1 @@
+{ "options" : { "create" : "shippers" }, "indexes" : [ { "v" : 1, "key" : { "_id" : 1 }, "ns" : "Northwind.shippers", "name" : "_id_" } ] }
