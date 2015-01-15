@@ -13,4 +13,4 @@ then spin up the sails server with
 ```
 sails lift
 ```
-From there you can test the server by navigating to [here](http://localhost:1337/employees)
+From there you can test the server by navigating to [here](http://localhost:1337/employees), the final address line, defines which table to query, so it could be employees, or products, or orders, or whatever data you need, and is all based off of restful design standards for interaction
